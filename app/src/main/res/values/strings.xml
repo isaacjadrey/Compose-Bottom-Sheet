@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Bottom Sheet</string>
+    <string name="bottom_sheet">Bottom Sheet</string>
+    <string name="modal_bottom_sheet">Modal Bottom Sheet</string>
+</resources>
